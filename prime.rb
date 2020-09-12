@@ -1,1 +1,9 @@
 # Add  code here!
+def prime?(num)
+  if num <= 1
+    return false
+  elsif
+    num.each do |i|
+  
+    
+    
