@@ -7,5 +7,5 @@ def prime?(number)
   true
 end
   
-    
+puts prime?(19)    
     
